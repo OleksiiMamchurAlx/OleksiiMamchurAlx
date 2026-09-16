@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "repository": "OleksiiMamchurAlx",
+  "excludes_self": true,
+  "self_hash_location": "Detached publication-control manifest retained by project owner",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "34861d26fa4b167101823cd193d9322185be256fe4018188885d1b4e374a240f",
+      "size_bytes": 2082,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    }
+  ]
+}
