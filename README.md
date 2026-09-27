@@ -1,18 +1,20 @@
 # Oleksii Mamchur
 
-**Toronto, Ontario · Automation, Reliability & Systems Diagnostics**
+**Toronto, Ontario · Independent Software Projects · Systems Diagnostics**
 
-I combine hands-on Windows, network and electronics troubleshooting with evidence-driven, AI-assisted automation and testing projects.
+I combine hands-on Windows, network and electronics troubleshooting with independent, evidence-driven, AI-assisted software automation and QA projects. My professional background and project results are described separately.
+
+[Canonical portfolio and evidence](https://oleksiimamchuralx.github.io/portfolio-site/) · [Live bounded Router demo](https://oleksiimamchuralx.github.io/portfolio-site/router-demo/)
 
 ## Featured work
 
 ### [Adaptive AI Router — Reliability & Evidence Demo](https://github.com/OleksiiMamchurAlx/adaptive-ai-router-demo)
 
-Python + SQLite, structured validation, regression tests and a controlled interruption/resume example. **16 evidence-library tests plus 4 portable-demo tests**, with explicit boundaries around what recovery proves.
+Python + SQLite, structured validation, regression tests and a controlled interruption/resume example. The public [`project.json`](https://github.com/OleksiiMamchurAlx/adaptive-ai-router-demo/blob/main/project.json) records the exact test scope, date, revision and limits; the browser demo is a bounded workflow, not production SRE evidence.
 
 ### [Graphics Package Diagnostics & Installer Validation](https://github.com/OleksiiMamchurAlx/graphics-installer-validation)
 
-Sanitized evidence from **4 installer scenarios × 2 PowerShell environments**, rollback and hash checks, and a safe synthetic frame-time analysis utility with 7 tests. No game binaries or unverified performance claims.
+Installer and rollback evidence, hash checks, and a safe synthetic frame-time analysis utility. The public [`project.json`](https://github.com/OleksiiMamchurAlx/graphics-installer-validation/blob/main/project.json) records its test scope and limits. Synthetic figures are not a gameplay benchmark; this repository contains no game binaries or renderer implementation.
 
 ## What connects the projects
 

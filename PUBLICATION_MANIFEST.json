@@ -16,8 +16,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "34861d26fa4b167101823cd193d9322185be256fe4018188885d1b4e374a240f",
-      "size_bytes": 2082,
+      "sha256": "d97cc5cabc9f53a90ea5ed5589ba7756be1b5a14f9768bf4f0a629492cc8a7ab",
+      "size_bytes": 2638,
       "source_artifact": "NEW-PUBLICATION-20260916",
       "sanitization_status": "REVIEWED_PUBLIC_COPY",
       "verification_status": "CONTENT_REVIEWED",
