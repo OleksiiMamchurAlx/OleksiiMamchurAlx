@@ -16,9 +16,9 @@
     },
     {
       "path": "README.md",
-      "sha256": "d97cc5cabc9f53a90ea5ed5589ba7756be1b5a14f9768bf4f0a629492cc8a7ab",
-      "size_bytes": 2638,
-      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sha256": "c38da4f7fafd6e191470d95cca6dda3bb6ccd9df71166adecc2d19b90a8e05a9",
+      "size_bytes": 2785,
+      "source_artifact": "PROFILE_CAREER_FOCUS_REVIEW_20260929",
       "sanitization_status": "REVIEWED_PUBLIC_COPY",
       "verification_status": "CONTENT_REVIEWED",
       "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
