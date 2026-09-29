@@ -4,6 +4,8 @@
 
 I combine hands-on Windows, network and electronics troubleshooting with independent, evidence-driven, AI-assisted software automation and QA projects. My professional background and project results are described separately.
 
+I am pursuing QA and IT Support opportunities in parallel, with a preference for QA. My support search includes Desktop Support and Service Desk.
+
 [Canonical portfolio and evidence](https://oleksiimamchuralx.github.io/portfolio-site/) · [Live bounded Router demo](https://oleksiimamchuralx.github.io/portfolio-site/router-demo/)
 
 ## Featured work
